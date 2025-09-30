@@ -75,12 +75,6 @@ react-tic-tac-toe/
 
 ---
 
-## Screenshots
-
-> *(Include screenshots here if you wish. Use: `![Description](./screenshots/screenshot.png)`)*
-
----
-
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
